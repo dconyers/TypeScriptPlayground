@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doug",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^1.8.2",
+    "typings": "^0.6.8"
+  }
+}
